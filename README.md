@@ -1,2 +1,2 @@
-# Jogo-numero
-Jogo Do Numero Secreto
+# Jogo-número
+Jogo Do Número Secreto
